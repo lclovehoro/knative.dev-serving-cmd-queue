@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:5481fae4ac4973bffb0d8c455a05f0e6c514cea7976d3add8f24081ab479e0b5
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:6cd0c234bfbf88ac75df5243c2f9213dcc9def610414c506d418f9388187b771
 MAINTAINER horoscope.liu@gmail.com
